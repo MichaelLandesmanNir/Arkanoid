@@ -1,10 +1,14 @@
-Arkanoid Game
+---
 
-Overview
+# **Arkanoid Game**
+
+
 
 This project is a Java-based version of the classic Arkanoid game, built with a strong emphasis on Object-Oriented Programming (OOP) principles. It showcases modularity, maintainability, and the application of various software design patterns. The game includes multiple levels, score tracking, and interactive gameplay.
+---
 
-Features
+## **Features**
+
 
 Graphical User Interface (GUI): Developed with Java Swing for a visually engaging user experience.
 
